@@ -33,6 +33,10 @@ namespace University_Admin_API.Controllers
         [Route("GetExaminationsBySemesterID")]
         public IActionResult GetExaminationsBySemesterID(string semesterType)
         {
+            if (semesterType == "null")
+            {
+                return Ok("");
+            }
             var syllabus = _syllabusService.GetSyllabusByID(semesterType).ToList();
 
             var studentInfos = _studentService.GetStudent().ToList();
@@ -78,13 +82,18 @@ namespace University_Admin_API.Controllers
 
         [HttpGet]
         [Route("GetExaminationsByRegistrationID")]
-        public IActionResult GetExaminationsByRegistrationID(string registrationNo, string semesterType)
+        public IActionResult GetExaminationsByRegistrationID(string registrationNo, string semesterType, string isPublishedResults)
         {
+            if(registrationNo == "null" || semesterType == "null")
+            {
+                return Ok("");
+            }
+
             var syllabus = _syllabusService.GetSyllabus().Where(syl=>syl.SemesterType == semesterType).ToList();
 
             var studentInfos = _studentService.GetStudent().Where(s => s.RegistrationNo == registrationNo).ToList();
 
-            var examinations = _examinationsService.GetExaminations().ToList();
+            var examinations = _examinationsService.GetExaminations().Where(ex=> ex.IsPublishedResults == isPublishedResults).ToList();
 
             var result = from sys in syllabus
                           join ex in examinations on sys.CourseCode equals ex.CourseCode

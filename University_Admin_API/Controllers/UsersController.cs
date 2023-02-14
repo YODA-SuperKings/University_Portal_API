@@ -45,6 +45,11 @@ namespace University_Admin_API.Controllers
         [Route("GetStudentByUserID")]
         public IActionResult GetStudentByUserID(string registrationNo)
         {
+            if (registrationNo == "null")
+            {
+                return Ok("");
+            }
+
             Student _student = new Student();
             var studentInfo = _studentService.GetStudent();
             var fee = _feeService.GetFee().Sum(_fee => _fee.Amount);

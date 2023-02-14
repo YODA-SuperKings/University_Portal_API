@@ -50,6 +50,11 @@ namespace University_Admin_API.Controllers
         [Route("GetDocumentByID")]
         public IActionResult GetDocumentByID(string registrationNo)
         {
+            if (registrationNo == "null")
+            {
+                return Ok("");
+            }
+
             var student = _studentService.GetStudent().Where(s=> s.RegistrationNo == registrationNo).ToList();
             var studentDoc = _documentService.GetDocument().Where(doc=>doc.RegistrationNo == registrationNo).ToList();
 
@@ -90,7 +95,7 @@ namespace University_Admin_API.Controllers
 
             if (document is null)
             {
-                return NotFound();
+                return Ok("");
             }
 
             document.Status = "Verified";

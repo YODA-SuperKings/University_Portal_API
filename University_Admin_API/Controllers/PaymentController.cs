@@ -29,6 +29,11 @@ namespace University_Admin_API.Controllers
         [Route("GetPaymentByID")]
         public IActionResult GetPaymentByID(string registrationNo)
         {
+            if (registrationNo == "null")
+            {
+                return Ok("");
+            }
+
             List<Payment> _payment = new List<Payment>();
             var payment = _paymentService.GetPayment();
             if (payment.Any() && (registrationNo != null || registrationNo != string.Empty))

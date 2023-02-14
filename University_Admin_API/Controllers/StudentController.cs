@@ -32,14 +32,19 @@ namespace University_Admin_API.Controllers
         [Route("GetStudentByID")]
         public IActionResult GetStudentByID(string userName)
         {
+            if (userName == "null")
+            {
+                return Ok("");
+            }
+
             var user = _userService.GetUsers().Where(s => s.UserName == userName).FirstOrDefault();
             if(user != null)
             {
                 var studentInfo = _studentService.GetStudent().Where(s => s.CollegeName == user.Name).ToList();
                 return Ok(studentInfo);
             }
-           
-            return Ok("");
+
+            return NotFound();
         }
 
         [HttpGet]
@@ -65,12 +70,11 @@ namespace University_Admin_API.Controllers
         [Route("UpdateStudent")]
         public IActionResult Update(string registrationCode)
         {
-            string msg = "";
             var studentInfo = _studentService.GetStudent().Where(s=> s.RegistrationNo == registrationCode).FirstOrDefault();
 
             if (studentInfo is null)
             {
-                return NotFound();
+                return Ok("");
             }
 
             studentInfo.IsActive = true;
@@ -86,7 +90,7 @@ namespace University_Admin_API.Controllers
             users.Name = studentInfo.CollegeName;
             if (users is null)
             {
-                return NotFound();
+                return Ok("");
             }
 
             _userService.CreateUser(users);
