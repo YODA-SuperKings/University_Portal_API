@@ -1,0 +1,23 @@
+C:\src\University-Admin\University Admin API\University_Admin_API\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\src\University-Admin\University Admin API\University_Admin_API\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\src\University-Admin\University Admin API\University_Admin_API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.AssemblyReference.cache
+C:\src\University-Admin\University Admin API\University_Admin_API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\src\University-Admin\University Admin API\University_Admin_API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\src\University-Admin\University Admin API\University_Admin_API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\src\University-Admin\University Admin API\University_Admin_API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\src\University-Admin-API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.AssemblyReference.cache
+C:\src\University-Admin-API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\src\University-Admin-API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\src\University-Admin-API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\src\University-Admin-API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\src\University-Admin-API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\src\University-Admin-API\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\src\University-Admin-API\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\src\University-Admin-API\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\src\University-Admin-API\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.Interface.dll
+C:\src\University-Admin-API\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.Model.dll
+C:\src\University-Admin-API\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.Interface.pdb
+C:\src\University-Admin-API\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.Model.pdb
+C:\src\University-Admin-API\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete

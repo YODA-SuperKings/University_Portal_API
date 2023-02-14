@@ -1,0 +1,90 @@
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\University_Admin_API.exe
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\University_Admin_API.deps.json
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\University_Admin_API.runtimeconfig.json
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\University_Admin_API.runtimeconfig.dev.json
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\University_Admin_API.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\University_Admin_API.pdb
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.csproj.AssemblyReference.cache
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.AssemblyInfoInputs.cache
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.AssemblyInfo.cs
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.csproj.CoreCompileInputs.cache
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.MvcApplicationPartsAssemblyInfo.cache
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.RazorTargetAssemblyInfo.cache
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\obj\Debug\netcoreapp3.1\staticwebassets\University_Admin_API.StaticWebAssets.Manifest.cache
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\obj\Debug\netcoreapp3.1\staticwebassets\University_Admin_API.StaticWebAssets.xml
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.pdb
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.genruntimeconfig.cache
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\AWSSDK.SecurityToken.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\Snappier.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\ZstdSharp.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\src\University-Admin\University Admin API\University_Admin_API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.csproj.CopyComplete
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\AWSSDK.SecurityToken.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\Snappier.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\ZstdSharp.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\BusinessLogic.Interface.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\BusinessLogic.Model.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\BusinessLogic.Interface.pdb
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\BusinessLogic.Model.pdb
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\src\University-Admin-API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.csproj.AssemblyReference.cache
+C:\src\University-Admin-API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.AssemblyInfoInputs.cache
+C:\src\University-Admin-API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.AssemblyInfo.cs
+C:\src\University-Admin-API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.csproj.CoreCompileInputs.cache
+C:\src\University-Admin-API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.MvcApplicationPartsAssemblyInfo.cache
+C:\src\University-Admin-API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.RazorTargetAssemblyInfo.cache
+C:\src\University-Admin-API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.csproj.CopyComplete
+C:\src\University-Admin-API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.dll
+C:\src\University-Admin-API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.pdb
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\University_Admin_API.exe
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\University_Admin_API.deps.json
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\University_Admin_API.runtimeconfig.json
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\University_Admin_API.runtimeconfig.dev.json
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\University_Admin_API.dll
+C:\src\University-Admin-API\University_Admin_API\bin\Debug\netcoreapp3.1\University_Admin_API.pdb
+C:\src\University-Admin-API\University_Admin_API\obj\Debug\netcoreapp3.1\staticwebassets\University_Admin_API.StaticWebAssets.Manifest.cache
+C:\src\University-Admin-API\University_Admin_API\obj\Debug\netcoreapp3.1\staticwebassets\University_Admin_API.StaticWebAssets.xml
+C:\src\University-Admin-API\University_Admin_API\obj\Debug\netcoreapp3.1\University_Admin_API.genruntimeconfig.cache
